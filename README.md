@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mind0bender
 - 👀 I’m interested in web development, javascript/ts, html canvas (p5js).
-- 🌱 I’m currently learning docker.
-- 💞️ I’m looking to collaborate on anything that is made with js/ts.
+- 🌱 I’m currently learning Next.js.
+- 💞️ I’m looking to collaborate on anything that is made with js/ts/jsx/tsx and more.
 - 📫 reach me via email => mind0bender@gmail.com
 
 <!---
