@@ -1,8 +1,8 @@
 # 🚀 Project Mind Bender
 
-UID: 23BCS11317
-Seciton: 819
+player23BCS11317 `_______`
 <img width="96" src="https://avatars.githubusercontent.com/u/87781848?v=4" />
+
 I'm a full stack developer, who aims to understand and create the new way of the digital world.
 
 ## Tech Stack
@@ -37,11 +37,5 @@ I'm looking to collaborate on projects that use React or anything with js/ts.
 
 ## Acknowledgements
 
-- [Jay Prakash Pathak](https://github.com/devjayprakash)
-- [Avisekh Sabi](https://github.com/avisekh3110)
-
-## Environment Variables
-
-String `CEKLET`;
-
-``
+- [Jay Prakash Pathak](https://github.com/devjayprakash)(Big Bro / Mentor)
+- [Avisekh Sabi](https://github.com/avisekh3110)(Bro)
