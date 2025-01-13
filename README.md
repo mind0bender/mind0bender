@@ -1,14 +1,8 @@
-<div style="display:flex;align-items:center;gap:4rem;padding:2rem;">
-    <div>
-        <h1>
-            # 🚀 Project Mind Bender
-        </h1>
-        UID: 23BCS11317
-        <br/>
-        Seciton: 819
-    </div>
-    <img width="96" src="https://avatars.githubusercontent.com/u/87781848?v=4" />
-</div>
+# 🚀 Project Mind Bender
+
+UID: 23BCS11317
+Seciton: 819
+<img width="96" src="https://avatars.githubusercontent.com/u/87781848?v=4" />
 I'm a full stack developer, who aims to understand and create the new way of the digital world.
 
 ## Tech Stack
