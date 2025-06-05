@@ -3,7 +3,6 @@
 player: 23BCS11317
 
 lvl: 21
-<img width="96" src="https://avatars.githubusercontent.com/u/87781848?v=4" />
 
 ![Github Stat](https://devchip.vercel.app/hello.svg)
 
