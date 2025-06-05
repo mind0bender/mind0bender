@@ -5,7 +5,8 @@ player: 23BCS11317
 lvl: 21
 <img width="96" src="https://avatars.githubusercontent.com/u/87781848?v=4" />
 
-![Github Stat](https://devchip.vercel.app/test.svg)
+![Github Stat](https://devchip.vercel.app/hello.svg)
+
 > Image will be fixed soon. I'm working on it.
 
 I'm a full stack developer, who aims to understand and create the new way of the digital world.
