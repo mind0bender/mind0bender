@@ -4,7 +4,7 @@ player: 23BCS11317
 
 lvl: 21
 
-![Github Stat](https://devchip.vercel.app/hello.svg)
+![Github Stat](https://devchip.vercel.app/profile.svg?username=mind0bender)
 
 > Image will be fixed soon. I'm working on it.
 
