@@ -4,9 +4,9 @@ player: 23BCS11317
 
 lvl: 21
 
-![Github Stat](https://devchip.vercel.app/profile.svg?username=mind0bender)
+![devchip -- if you can see this, refresh the page.](https://devchip.vercel.app/api/profile/mind0bender)
 
-> Image will be fixed soon. I'm working on it.
+<!-- > Image will be fixed soon. I'm working on it. -->
 
 I'm a full stack developer, who aims to understand and create the new way of the digital world.
 
