@@ -2,13 +2,13 @@
 
 player: 23BCS11317
 
-lvl: 21
+lvl: 22
 
 ![devchip -- if you can see this, refresh the page.](https://devchip.vercel.app/api/profile/mind0bender)
 
 <!-- > Image will be fixed soon. I'm working on it. -->
 
-I'm a full stack developer, who aims to understand and create the new way of the digital world.
+I'm a full stack developer, aiming to understand and create the new way of the digital world.
 
 ## Tech Stack
 
@@ -24,9 +24,9 @@ I'm a full stack developer, who aims to understand and create the new way of the
 
 ---
 
-👩‍💻 I'm currently working on [Oofnote](https://oofnote.vercel.app/).
+👩‍💻 I'm currently working on [CF-litening](https://github.com/mind0bender/cf-litening.git).
 
-🧠 I'm currently learning Java and [Three.js](https://threejs.org/).
+🧠 I'm currently learning [Rust](https://rust-lang.org/) and [Three.js](https://threejs.org/).
 
 I'm looking to collaborate on projects that use React or anything with js/ts.
 
@@ -39,8 +39,3 @@ I'm looking to collaborate on projects that use React or anything with js/ts.
 ⚡️ Fun fact: The world's first website, created by Tim Berners-Lee in 1991, is still online and can be accessed at its [original URL](http://info.cern.ch/hypertext/WWW/TheProject.html).
 
 ---
-
-## Acknowledgements
-
-- [Jay Prakash Pathak](https://github.com/devjayprakash)(Mentor)
-- [Avisekh Sabi](https://github.com/avisekh3110)(Bro)
